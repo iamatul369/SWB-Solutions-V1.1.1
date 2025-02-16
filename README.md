@@ -108,7 +108,6 @@ Currently, a **Stripe payment gateway** is integrated into the app for testing p
 - **Backend**: Vercel
 - **Database**: MongoDB Atlas
 - **Payment Gateway (Test)**: Stripe
-- **Domain**: [Your domain link here]
 
 ---
 

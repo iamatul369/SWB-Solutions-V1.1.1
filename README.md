@@ -123,10 +123,29 @@ This project is licensed for personal use. All rights to the code and assets bel
 Here are some screenshots of the app in action:
 
 1. **Home Screen:**
-   ![Home Screen](insert-image-link-here)
+   ![WhatsApp Image 2025-02-16 at 12 29 19 PM](https://github.com/user-attachments/assets/87935f05-0d6a-45ec-a9b4-a4cb9f75fe5a)
+   ![WhatsApp Image 2025-02-16 at 12 29 20 PM (1)](https://github.com/user-attachments/assets/bc0b3bcf-c7d4-4a07-90d6-1bda914073d9)
+   ![WhatsApp Image 2025-02-16 at 12 29 20 PM (2)](https://github.com/user-attachments/assets/69ba9e95-46b4-44da-bddc-2d03174b31cf)
+
+
+
    
 2. **Resume Builder Interface:**
-   ![Resume Builder](insert-image-link-here)
+![WhatsApp Image 2025-02-16 at 12 29 22 PM](https://github.com/user-attachments/assets/2c023192-62bc-48b1-af78-2e6de6949770)
+![WhatsApp Image 2025-02-16 at 12 29 21 PM (1)](https://github.com/user-attachments/assets/0f3052f7-0914-4395-ba19-4d4e9fc79ec9)
+
    
-3. **Generated Resume (PDF Preview):**
-   ![Generated Resume](insert-image-link-here)
+3. **Reviews:**
+
+
+   ![WhatsApp Image 2025-02-16 at 12 29 24 PM](https://github.com/user-attachments/assets/bb42f5c4-c09f-4aaf-91a0-7fd8b1225a3b)
+![WhatsApp Image 2025-02-16 at 12 29 20 PM (3)](https://github.com/user-attachments/assets/f5d20f54-1a2d-486a-a4fa-d3c83ccaa47d)
+
+
+5. **Profile:**
+
+   
+![WhatsApp Image 2025-02-16 at 12 29 22 PM (1)](https://github.com/user-attachments/assets/2ef99979-a845-4404-ad92-2c309d77a3dd)
+
+   
+
